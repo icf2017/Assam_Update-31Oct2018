@@ -1,0 +1,28 @@
+@media (min-width:720px) and (max-width:1024px)
+{
+div#main_menu_header {
+    padding-left: 0px;
+        text-align: left !important;
+}
+	
+	
+	div#topbar3 .container {
+    width: 90% !important;
+    max-width: 90% !important;
+}
+	div#feedback_btn button {
+		font-size: 8px !important;
+    padding: 8% 7% !important;
+	}
+	
+	div#main_menu_header ul.menu_22 a {
+    color: black;
+    padding: 1px !important;
+    text-decoration: none;
+}
+	
+	ul.menu_22 li {
+    font-size: 8px !important;
+}
+	
+}
